@@ -1,3 +1,5 @@
+<!--This clone was a task for an internship-->
+
 1. The Website I chose out of the three allocated to me is https://www.adv3nture.xyz/ 
 
 2. I tried to replicate as close as possible to the original design of the website within the given stipulated time.
